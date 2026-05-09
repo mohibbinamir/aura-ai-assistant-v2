@@ -1,0 +1,3 @@
+APP_TITLE = "AURA AI Assistant V2"
+WINDOW_SIZE = "1000x700"
+MODEL_NAME = "gpt-4.1-mini"

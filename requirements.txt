@@ -1,0 +1,6 @@
+openai
+customtkinter
+speechrecognition
+pyttsx3
+pyautogui
+python-dotenv
