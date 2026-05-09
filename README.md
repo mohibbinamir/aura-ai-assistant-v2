@@ -39,7 +39,7 @@ AURA AI Assistant V2 is a local desktop AI assistant built with Python. It combi
 
 ## How It Works
 
-AURA first checks whether the user request matches a local action such as opening an app, opening a website, searching YouTube, searching Google, saving a note, or taking a screenshot.
+AURA first checks whether the user request matches a local action such as opening an app, opening a website, searching YouTube, searching Google, saving a note, taking a screenshot, or performing a simple calculation.
 
 If the request is a normal question or conversation, it sends the message to a local Ollama model for AI-generated responses.
 
